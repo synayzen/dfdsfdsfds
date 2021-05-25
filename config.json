@@ -1,0 +1,13 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["595903529898737664"],
+        "ACTIVITY_TEXT": "𒋝 𝐁𝐢𝐞𝐧𝐯𝐞𝐧𝐢𝐝𝐨𝐬 💕 Voice System",
+        "GUILD_ID": "844277645683195935",
+        "VOICE_CHANNEL": "844277646430568478",
+        "MIN_STAFF_ROLE": "844277645880590375"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome-voice.mp3",
+        "STAFF": "default_files/staff-voice.mp3"
+    }
+}
